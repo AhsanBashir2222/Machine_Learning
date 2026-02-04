@@ -1,0 +1,11 @@
+comment_id,user_name,comment_text,post_date,sentiment
+1,JohnDoe,"""Wow! AMAZING product ?? Loved it! Check https://example.com for more""",1/15/2024,positive
+2,JaneSmith,"""The item was okay, but delivery was late ??""",1/16/2024,neutral
+3,null,"""TERRIBLE customer service!!! Never buying again ??""",1/14/2024,negative
+4,MikeBrown,"""Good value for money ?? Would recommend to friends""",1/17/2024,positive
+5,null,null,1/18/2024,null
+6,SaraLee,"""The quality is EXCELLENT! ?????? Visit http://store.com #bestproduct""",1/16/2024,positive
+7,TomJones,"""Not what I expected... disappointed ??""",1/15/2024,negative
+8,AnnaKim,"""Fast shipping!!! Product works perfectly ?? #happycustomer""",1/17/2024,positive
+9,BobWilson,"""Mediocre experience. Could be better ?????""",1/16/2024,neutral
+10,LisaWang,"""BROKEN item received! Very angry right now ?? Contact: support@company.com""",1/14/2024,negative
